@@ -60,6 +60,49 @@ const SeoContentSection = () => (
 
     <div className="space-y-4">
       <h2 className="font-heading text-xl md:text-2xl font-bold">
+        How to Watch Anime on <span className="text-primary">HiAnime</span>
+      </h2>
+      <p className="text-muted-foreground leading-relaxed max-w-3xl">
+        Watching anime on HiAnime is incredibly simple. Just visit HiAnime, search for the anime you want to watch using the search bar, and click play — that's it. No downloads, no sign-ups, no hassle. HiAnime lets you browse anime by genre, season, popularity, or release date. You can also use the HiAnime schedule page to track when new episodes drop. HiAnime supports multiple video servers, so if one server is slow, simply switch to another for uninterrupted streaming.
+      </p>
+      <ol className="text-muted-foreground leading-relaxed max-w-3xl space-y-2 list-decimal list-inside">
+        <li>Visit <strong className="text-foreground">HiAnime</strong> on your browser</li>
+        <li>Search for your favorite anime or browse by genre on HiAnime</li>
+        <li>Select an episode and choose sub or dub on HiAnime</li>
+        <li>Click play and enjoy HD anime streaming on HiAnime for free</li>
+      </ol>
+    </div>
+
+    <div className="space-y-4">
+      <h2 className="font-heading text-xl md:text-2xl font-bold">
+        Best Anime to Watch on <span className="text-primary">HiAnime</span> in 2026
+      </h2>
+      <p className="text-muted-foreground leading-relaxed max-w-3xl">
+        2026 is packed with incredible anime releases and HiAnime has them all. Here are the top anime you should watch on HiAnime this year:
+      </p>
+      <ul className="text-muted-foreground leading-relaxed max-w-3xl space-y-2 list-disc list-inside">
+        <li><strong className="text-foreground">Solo Leveling Season 2</strong> — The most anticipated action anime returns on HiAnime with jaw-dropping animation.</li>
+        <li><strong className="text-foreground">One Piece</strong> — The legendary adventure continues with the Egghead Arc streaming on HiAnime.</li>
+        <li><strong className="text-foreground">Sakamoto Days</strong> — A hilarious action-comedy about a retired hitman, available on HiAnime.</li>
+        <li><strong className="text-foreground">The Apothecary Diaries Season 2</strong> — Mystery and palace intrigue in ancient China, streaming free on HiAnime.</li>
+        <li><strong className="text-foreground">Blue Lock Season 2</strong> — Intense football action with next-level animation on HiAnime.</li>
+        <li><strong className="text-foreground">Frieren: Beyond Journey's End</strong> — A masterpiece fantasy anime about an elf mage, watch it on HiAnime.</li>
+        <li><strong className="text-foreground">Dandadan</strong> — Supernatural action meets comedy in this breakout hit on HiAnime.</li>
+        <li><strong className="text-foreground">Jujutsu Kaisen</strong> — Dark fantasy action with stunning fights, streaming on HiAnime.</li>
+      </ul>
+    </div>
+
+    <div className="space-y-4">
+      <h2 className="font-heading text-xl md:text-2xl font-bold">
+        <span className="text-primary">HiAnime</span> vs Other Anime Streaming Sites
+      </h2>
+      <p className="text-muted-foreground leading-relaxed max-w-3xl">
+        While there are many anime streaming sites available, HiAnime stands out as the best free alternative. Unlike paid platforms like Crunchyroll or Funimation, HiAnime offers its entire library for free with no subscription required. Compared to other free anime sites, HiAnime provides superior video quality, faster loading times, fewer ads, and a much larger catalog. HiAnime also updates episodes faster than most competitors, often within hours of the Japanese broadcast. HiAnime's clean interface and mobile-friendly design make it the preferred choice for millions of anime fans worldwide.
+      </p>
+    </div>
+
+    <div className="space-y-4">
+      <h2 className="font-heading text-xl md:text-2xl font-bold">
         Frequently Asked Questions About <span className="text-primary">HiAnime</span>
       </h2>
       <div className="max-w-3xl space-y-4">

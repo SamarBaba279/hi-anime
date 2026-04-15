@@ -18,6 +18,18 @@ const jsonLd = {
   },
 };
 
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: [
+    { "@type": "Question", name: "Is HiAnime free to use?", acceptedAnswer: { "@type": "Answer", text: "Yes, HiAnime is completely free. You can watch all anime on HiAnime without any subscription or hidden charges." } },
+    { "@type": "Question", name: "Do I need to create an account on HiAnime?", acceptedAnswer: { "@type": "Answer", text: "No, HiAnime does not require registration. You can start watching anime on HiAnime instantly without creating an account." } },
+    { "@type": "Question", name: "Does HiAnime have dubbed anime?", acceptedAnswer: { "@type": "Answer", text: "Yes, HiAnime provides both subbed and dubbed anime. You can switch between sub and dub on most titles available on HiAnime." } },
+    { "@type": "Question", name: "Can I watch anime on HiAnime on my phone?", acceptedAnswer: { "@type": "Answer", text: "Absolutely. HiAnime is fully responsive and works perfectly on mobile phones, tablets, and desktop computers." } },
+    { "@type": "Question", name: "How often is HiAnime updated with new episodes?", acceptedAnswer: { "@type": "Answer", text: "HiAnime is updated daily with the latest anime episodes, typically within hours of their original broadcast in Japan." } },
+  ],
+};
+
 const Index = () => (
   <>
     <Helmet>
@@ -33,6 +45,7 @@ const Index = () => (
       <meta name="twitter:title" content="HiAnime - Watch Anime Online Free" />
       <meta name="robots" content="index, follow" />
       <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <script type="application/ld+json">{JSON.stringify(faqJsonLd)}</script>
     </Helmet>
 
     <Navbar />
