@@ -12,6 +12,6 @@ Allow: /
 
 User-agent: *
 Allow: /
-Disallow: /api/
+Disallow: /admin/
 
-Sitemap: https://hianime.to/sitemap.xml
+Sitemap: https://hi-anime.lovable.app/sitemap.xml
