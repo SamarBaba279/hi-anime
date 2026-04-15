@@ -59,7 +59,9 @@ const HeroSection = () => {
           </p>
 
           <a
-            href="#watch"
+            href="https://xyz.com"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-primary/15 border border-primary/30 text-primary font-heading font-semibold px-6 py-3 rounded-xl hover:bg-primary/25 transition-colors"
           >
             Watch anime <ArrowRight className="w-4 h-4" />
