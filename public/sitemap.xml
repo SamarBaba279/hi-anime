@@ -1,135 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hi-anime.lovable.app/</loc>
+    <loc>https://hianime.to/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/about</loc>
+    <loc>https://hianime.to/movies</loc>
     <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hianime.to/tv-series</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hianime.to/most-popular</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hianime.to/top-airing</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hianime.to/genre/action</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/contact</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/search</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/anime/shadow-monarch-rising</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/anime/ocean-voyage-chronicles</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/anime/retired-assassin-days</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/anime/palace-apothecary-tales</loc>
+    <loc>https://hianime.to/genre/romance</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/anime/striker-lockdown</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/anime/eternal-mage-journey</loc>
+    <loc>https://hianime.to/genre/comedy</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/anime/cursed-sorcerer-battles</loc>
+    <loc>https://hianime.to/genre/fantasy</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/anime/demon-slayer-academy</loc>
+    <loc>https://hianime.to/genre/horror</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/genre/action</loc>
+    <loc>https://hianime.to/genre/sci-fi</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hi-anime.lovable.app/genre/romance</loc>
+    <loc>https://hianime.to/genre/isekai</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/comedy</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/fantasy</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/horror</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/sci-fi</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/isekai</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/adventure</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/drama</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hi-anime.lovable.app/genre/supernatural</loc>
-    <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
 </urlset>
