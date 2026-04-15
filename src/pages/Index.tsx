@@ -45,6 +45,7 @@ const Index = () => (
       <meta name="twitter:title" content="HiAnime - Watch Anime Online Free" />
       <meta name="robots" content="index, follow" />
       <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
+      <script type="application/ld+json">{JSON.stringify(faqJsonLd)}</script>
     </Helmet>
 
     <Navbar />
