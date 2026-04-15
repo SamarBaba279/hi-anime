@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hianime.to/</loc>
+    <loc>https://hi-animes.netlify.app/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hianime.to/movies</loc>
+    <loc>https://hi-animes.netlify.app/movies</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hianime.to/tv-series</loc>
+    <loc>https://hi-animes.netlify.app/tv-series</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hianime.to/most-popular</loc>
+    <loc>https://hi-animes.netlify.app/most-popular</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hianime.to/top-airing</loc>
+    <loc>https://hi-animes.netlify.app/top-airing</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/action</loc>
+    <loc>https://hi-animes.netlify.app/genre/action</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/romance</loc>
+    <loc>https://hi-animes.netlify.app/genre/romance</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/comedy</loc>
+    <loc>https://hi-animes.netlify.app/genre/comedy</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/fantasy</loc>
+    <loc>https://hi-animes.netlify.app/genre/fantasy</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/horror</loc>
+    <loc>https://hi-animes.netlify.app/genre/horror</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/sci-fi</loc>
+    <loc>https://hi-animes.netlify.app/genre/sci-fi</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hianime.to/genre/isekai</loc>
+    <loc>https://hi-animes.netlify.app/genre/isekai</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
