@@ -14,4 +14,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://hianime.to/sitemap.xml
+Sitemap: https://hi-animes.netlify.app/sitemap.xml
