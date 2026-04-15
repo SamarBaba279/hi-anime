@@ -28,13 +28,13 @@ const HeroSection = () => {
         <div className="absolute inset-0" style={{ background: "var(--hero-overlay)" }} />
       </div>
 
-      <div className="container relative z-10 py-16 md:py-24">
-        <div className="max-w-xl space-y-6 animate-fade-in">
+      <div className="container relative z-10 py-16 md:py-24 flex justify-center">
+        <div className="max-w-xl w-full space-y-6 animate-fade-in text-center">
           <h1 className="font-heading text-4xl md:text-5xl font-extrabold leading-tight">
             h<span className="text-primary">!</span>anime
           </h1>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 max-w-md mx-auto">
             <div className="flex-1 relative">
               <input
                 type="search"
@@ -53,7 +53,7 @@ const HeroSection = () => {
             </button>
           </div>
 
-          <p className="text-xs text-muted-foreground leading-relaxed">
+          <p className="text-xs text-muted-foreground leading-relaxed px-4">
             <span className="text-primary font-medium">Top search:</span>{" "}
             {topSearches.join(" · ")}
           </p>
